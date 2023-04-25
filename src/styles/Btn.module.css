@@ -1,0 +1,27 @@
+.btn {
+    width: 120px;
+    font-family: futura-pt-bold, sans-serif;
+    color: black;
+    background-color: #fff;
+    border-radius: 30px;
+    margin: 5px;
+}
+
+.btn:hover {
+    background-color: #aaa;
+    color: #fff;
+}
+
+.btn2 {
+    width: 120px;
+    font-family: futura-pt-bold, sans-serif;
+    color: #fff;
+    background-color: #f23d75;
+    border-radius: 30px;
+    margin: 5px;
+}
+
+.btn2:hover {
+    background-color: #aaa;
+    color: #fff;
+}
